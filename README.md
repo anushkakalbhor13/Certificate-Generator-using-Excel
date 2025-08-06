@@ -1,2 +1,18 @@
-# Certificate-Generator-using-Excel
-This project automates the generation of personalized certificates using recipient data from an Excel file. It merges each entry with a pre-designed certificate template and outputs customized certificates efficiently. Ideal for academic events, workshops, and organizations.
+# 🎓 Certificate Generator (Excel + Python)
+
+This project automates the generation of personalized certificates using Python. It reads recipient data from an Excel file and merges it into a pre-designed certificate template to produce custom certificates efficiently.
+
+---
+
+## 🚀 Features
+
+- 📄 Read recipient details from an Excel sheet (.xlsx)
+- 🖼️ Merge names and positions into a certificate template
+- 🧾 Generate multiple certificates automatically
+- 📂 Saves certificates as image or PDF files
+- 🛠️ Easy to customize template and data
+
+---
+
+## 📁 Folder Structure
+
